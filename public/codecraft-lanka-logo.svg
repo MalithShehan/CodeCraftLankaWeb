@@ -1,0 +1,29 @@
+<svg width="720" height="340" viewBox="0 0 720 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGlow" x1="166" y1="257" x2="438" y2="43" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4FE6FF" />
+      <stop offset="0.5" stop-color="#31B8FF" />
+      <stop offset="1" stop-color="#1873FF" />
+    </linearGradient>
+    <linearGradient id="logoGlass" x1="229" y1="84" x2="352" y2="199" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.96" />
+      <stop offset="0.52" stop-color="#9EE8FF" stop-opacity="0.92" />
+      <stop offset="1" stop-color="#35D8FF" stop-opacity="0.18" />
+    </linearGradient>
+  </defs>
+  <path d="M160 74H278L300 104L242 158L183 117L160 74Z" fill="url(#logoGlass)" />
+  <path d="M143 65H257L300 116L217 257L143 65Z" stroke="url(#logoGlow)" stroke-width="10" stroke-linejoin="round" />
+  <path d="M257 65H472L300 257L257 65Z" stroke="url(#logoGlow)" stroke-width="10" stroke-linejoin="round" />
+  <path d="M273 102H424L334 191" stroke="url(#logoGlow)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M239 61L300 115L250 164L188 111L239 61Z" fill="url(#logoGlass)" opacity="0.95" />
+  <path d="M263 103H326" stroke="url(#logoGlow)" stroke-width="7" stroke-linecap="round" />
+  <path d="M338 72H396L422 46" stroke="url(#logoGlow)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M326 103H408L437 74" stroke="url(#logoGlow)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M311 137H391L416 112" stroke="url(#logoGlow)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="428" cy="44" r="11" stroke="url(#logoGlow)" stroke-width="6" />
+  <circle cx="443" cy="73" r="11" stroke="url(#logoGlow)" stroke-width="6" />
+  <circle cx="419" cy="111" r="11" stroke="url(#logoGlow)" stroke-width="6" />
+  <path d="M182 266H417" stroke="url(#logoGlow)" stroke-width="6" stroke-linecap="round" opacity="0.75" />
+  <text x="126" y="315" fill="url(#logoGlow)" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="5">CODECRAFT</text>
+  <text x="258" y="338" fill="#8EE7FF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="11">LANKA</text>
+</svg>

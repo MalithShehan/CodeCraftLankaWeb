@@ -1,0 +1,27 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="markGlow" x1="36" y1="198" x2="206" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4FE6FF" />
+      <stop offset="0.5" stop-color="#31B8FF" />
+      <stop offset="1" stop-color="#1873FF" />
+    </linearGradient>
+    <linearGradient id="markGlass" x1="77" y1="69" x2="153" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.96" />
+      <stop offset="0.52" stop-color="#9EE8FF" stop-opacity="0.92" />
+      <stop offset="1" stop-color="#35D8FF" stop-opacity="0.18" />
+    </linearGradient>
+  </defs>
+  <path d="M46 57H116L128 74L95 114L61 82L46 57Z" fill="url(#markGlass)" />
+  <path d="M36 52H102L128 82L80 196L36 52Z" stroke="url(#markGlow)" stroke-width="8" stroke-linejoin="round" />
+  <path d="M102 52H220L128 196L102 52Z" stroke="url(#markGlow)" stroke-width="8" stroke-linejoin="round" />
+  <path d="M112 74H196L148 132" stroke="url(#markGlow)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M90 50L128 82L96 112L60 80L90 50Z" fill="url(#markGlass)" opacity="0.95" />
+  <path d="M104 75H143" stroke="url(#markGlow)" stroke-width="6" stroke-linecap="round" />
+  <path d="M150 56H182L197 40" stroke="url(#markGlow)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M143 76H191L208 59" stroke="url(#markGlow)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M136 96H180L195 81" stroke="url(#markGlow)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="201" cy="36" r="8" stroke="url(#markGlow)" stroke-width="5" />
+  <circle cx="212" cy="55" r="8" stroke="url(#markGlow)" stroke-width="5" />
+  <circle cx="199" cy="82" r="8" stroke="url(#markGlow)" stroke-width="5" />
+  <path d="M76 198H182" stroke="url(#markGlow)" stroke-width="5" stroke-linecap="round" opacity="0.75" />
+</svg>
