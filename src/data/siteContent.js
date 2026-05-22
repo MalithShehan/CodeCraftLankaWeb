@@ -71,7 +71,7 @@ export const sectionCopy = {
       titleTail: 'For Modern Businesses',
       typingLead: 'Crafting',
       description:
-        'CodeCraft Lanka helps ambitious brands launch premium websites, mobile apps, custom software, and POS systems that feel credible on first contact and perform smoothly under real business pressure.',
+        'We build websites, mobile apps, custom software, and POS systems for businesses in Sri Lanka — with fast delivery, clean design, and reliable ongoing support.',
       primaryCta: 'Get Started',
       secondaryCta: 'View Projects',
       spotlightTitle: 'Why clients choose us',
@@ -87,7 +87,7 @@ export const sectionCopy = {
       title:
         'A Sri Lankan software team building premium digital products with an international standard.',
       description:
-        'CodeCraft Lanka combines UI precision, conversion-focused thinking, and modern engineering to help businesses launch products that feel trustworthy and well-crafted from the first interaction.',
+        'We bring together clean design, solid engineering, and clear communication to help Sri Lankan businesses launch digital products they are proud of.',
       visionTitle: 'Vision',
       visionBody:
         'To make premium digital product quality accessible to ambitious brands across Sri Lanka and beyond.',
@@ -98,10 +98,10 @@ export const sectionCopy = {
     services: {
       eyebrow: 'Services',
       title:
-        'End-to-end digital execution for websites, mobile apps, business systems, and growth-ready infrastructure.',
+        'Everything your business needs to build, launch, and grow online.',
       description:
-        'Every engagement is built around modern UX, reliable implementation, and a finish that feels premium enough to win client trust immediately.',
-      videoLabel: 'Animated tech visuals',
+        'From first discussion to final launch — we handle design, development, and delivery so you can focus on running your business.',
+      videoLabel: 'What we offer',
     },
     portfolio: {
       eyebrow: 'Portfolio',
@@ -128,7 +128,7 @@ export const sectionCopy = {
       eyebrow: 'Testimonials',
       title: 'Client feedback that reinforces the premium, reliable experience behind the visuals.',
       description:
-        'Sample testimonials showcase the kind of trust, communication, and execution quality CodeCraft Lanka is designed to represent.',
+        'Hear what our clients say about working with CodeCraft Lanka.',
     },
     metrics: {
       eyebrow: 'Results',
@@ -141,9 +141,9 @@ export const sectionCopy = {
     },
     whyChoose: {
       eyebrow: 'Why choose us',
-      title: 'Trust-building delivery principles designed to help clients say yes faster.',
+      title: 'Why businesses across Sri Lanka choose CodeCraft Lanka.',
       description:
-        'The strongest agency websites convert because they look premium, communicate clearly, and reduce buyer hesitation. This section is built for that exact purpose.',
+        'We combine speed, quality, and clear communication to deliver software that helps your business grow.',
     },
     process: {
       eyebrow: 'Process',
@@ -155,13 +155,13 @@ export const sectionCopy = {
       eyebrow: 'Case studies',
       title: 'Problem, solution, and result stories that make the work feel concrete and credible.',
       description:
-        'Case-study framing gives prospects a clearer picture of how CodeCraft Lanka approaches business outcomes, not just visuals.',
+        'A closer look at the challenges we solved, the solutions we built, and the results we delivered.',
     },
     contact: {
       eyebrow: 'Contact',
       title: 'Start a project conversation with a team focused on premium delivery.',
       description:
-        'Send your requirements, timeline, or business challenge. The contact form supports EmailJS when configured and falls back to email client launch when environment keys are not set.',
+        'Send us your requirements, timeline, or business challenge. We will get back to you within 24 hours on business days.',
       form: {
         name: 'Name',
         email: 'Email',
@@ -191,7 +191,7 @@ export const sectionCopy = {
       projectsTitle:
         'Selected digital experiences designed to feel premium, modern, and conversion-ready.',
       projectsDescription:
-        'This showcase combines real and concept work to communicate the quality bar, interaction style, and delivery approach CodeCraft Lanka can bring to client projects.',
+        'Browse our portfolio of websites, mobile apps, POS systems, and custom software — built for clients across Sri Lanka.',
       contactTitle: 'Let’s design the next premium software experience for your business.',
       contactDescription:
         'Share your requirements, desired timeline, or the challenge you need solved. We will help shape the right product direction from the first conversation.',
@@ -217,7 +217,7 @@ export const sectionCopy = {
       title:
         'ජාත්‍යන්තර තත්ත්වයට ගැළපෙන ප්‍රිමියම් ඩිජිටල් නිෂ්පාදන ගොඩනඟන ශ්‍රී ලාංකීය මෘදුකාංග කණ්ඩායමක්.',
       description:
-        'CodeCraft Lanka ආයතනය UI නිරවද්‍යතාව, පරිවර්තන-නිබඳ චින්තනය, සහ නවීන ඉංජිනේරු ක්‍රමවේද එකට ගෙන ව්‍යාපාරවලට විශ්වාසදායී සහ සුසංවිධානය වූ නිෂ්පාදන දියත් කිරීමට උපකාරී වේ.',
+        'CodeCraft Lanka ශ්‍රී ලාංකීය ව්‍යාපාරවලට ඔවුන් ආඩම්බර වන ඩිජිටල් නිෂ්පාදන දියත් කිරීමට හොඳ design, ශක්තිමත් engineering, සහ පැහැදිලි සන්නිවේදනය ලබාදෙයි.',
       visionTitle: 'දැක්ම',
       visionBody: 'ශ්‍රී ලංකාව සහ ඉන් පිටත අභිලාෂී සන්නාමයන්ට ප්‍රිමියම් ඩිජිටල් ගුණාත්මකභාවය ලඟා කරදීම.',
       missionTitle: 'මෙහෙවර',
@@ -230,7 +230,7 @@ export const sectionCopy = {
         'වෙබ් අඩවි, ජංගම යෙදුම්, ව්‍යාපාරික පද්ධති, සහ වර්ධනයට සූදානම් යටිතල පහසුකම් සඳහා අග සිට මුල දක්වා ඩිජිටල් ක්‍රියාත්මක කිරීම.',
       description:
         'සෑම ව්‍යාපෘතියක්ම නවීන UX, විශ්වාසදායී ක්‍රියාත්මක කිරීම, සහ පළමු වරටම විශ්වාසය ගොඩනඟන නිමාවක් වටා සකස් කරයි.',
-      videoLabel: 'සජීවී තාක්ෂණික දෘශ්‍ය',
+      videoLabel: 'අප ලබාදෙන සේවා',
     },
     portfolio: {
       eyebrow: 'පෝට්ෆෝලියෝ',
@@ -257,7 +257,7 @@ export const sectionCopy = {
       eyebrow: 'ප්‍රතිචාර',
       title: 'දෘශ්‍ය නිර්මාණයට පසුපසින් ඇති විශ්වාසදායී අත්දැකීම තහවුරු කරන ගනුදෙනුකරුවන්ගේ අදහස්.',
       description:
-        'මෙම නියැදි ප්‍රතිචාර CodeCraft Lanka සන්නාමය ඉදිරිපත් කිරීමට නිර්මාණය කර ඇති විශ්වාසය, සන්නිවේදනය, සහ ක්‍රියාත්මක කිරීමේ ගුණාත්මකභාවය ප්‍රදර්ශනය කරයි.',
+        'CodeCraft Lanka සමඟ වැඩ කිරීමේ අත්දැකීම ගැන ගනුදෙනුකරුවන් කියන දේ.',
     },
     metrics: {
       eyebrow: 'ප්‍රතිඵල',
@@ -272,7 +272,7 @@ export const sectionCopy = {
       eyebrow: 'අපව තෝරාගන්නා හේතු',
       title: 'ගනුදෙනුකරුවන් වේගයෙන් තීරණය කිරීමට උපකාරී වන විශ්වාස ගොඩනඟන මූලධර්ම.',
       description:
-        'ශක්තිමත් agency වෙබ් අඩවි හොඳ ලෙස පෙනී, පැහැදිලිව සන්නිවේදනය කර, ගැනුම්කරුවන්ගේ සැකය අඩු කරන නිසා පරිවර්තනය වඩා හොඳ වේ.',
+        'ශ්‍රී ලංකාවේ ව්‍යාපාරවල ඔබගේ ව්‍යාපාරය වර්ධනය කිරීමට මෘදුකාංග ලබාදීමට අපි වේගය, ගුණාත්මකභාවය, සහ පැහැදිලි සන්නිවේදනය එකට ගනිමු.',
     },
     process: {
       eyebrow: 'ක්‍රියාවලිය',
@@ -284,13 +284,13 @@ export const sectionCopy = {
       eyebrow: 'Case studies',
       title: 'ගැටලුව, විසඳුම, සහ ප්‍රතිඵල මගින් වැඩ විශ්වාසදායී සහ ස්පර්ශනීය කර පෙන්වන කතා.',
       description:
-        'Case-study ආකෘතිය prospective clients හට CodeCraft Lanka ව්‍යාපාරික ප්‍රතිඵල මත කෙසේ වැඩ කරනවාද යන්න පැහැදිලිව තේරුම්ගන්න උපකාරී වේ.',
+        'අපි විසඳූ ගැටළු, ගොඩනැගූ විසඳුම්, සහ ලබාදුන් ප්‍රතිඵල ගැන සමීපව බලන්න.',
     },
     contact: {
       eyebrow: 'සම්බන්ධ වන්න',
       title: 'ප්‍රිමියම් delivery එකක් ඉලක්ක කරගත් කණ්ඩායමක් සමග ව්‍යාපෘති සංවාදය ආරම්භ කරන්න.',
       description:
-        'ඔබගේ අවශ්‍යතා, කාලසටහන, හෝ ව්‍යාපාරික අභියෝගය අපට යවන්න. EmailJS සකසා තිබේ නම් contact form එක එය භාවිතා කරයි, නැතිනම් email client එක විවෘත කරයි.',
+        'ඔබගේ අවශ්‍යතා, කාලසටහන, හෝ ව්‍යාපාරික අභියෝගය අපට යවන්න. ව්‍යාපාරික දිනයකදී පැය 24ක් ඇතුළත අපි ප්‍රතිචාර දක්වමු.',
       form: {
         name: 'නම',
         email: 'විද්‍යුත් තැපෑල',
@@ -319,7 +319,7 @@ export const sectionCopy = {
     pages: {
       projectsTitle: 'ප්‍රිමියම්, නවීන, සහ conversion-ready feel එකක් ඇති තෝරාගත් ඩිජිටල් අත්දැකීම්.',
       projectsDescription:
-        'මෙම showcase එක CodeCraft Lanka ගෙන එන quality bar, interaction style, සහ delivery approach එක පෙන්වීමට real සහ concept work එකට එක්කරයි.',
+        'ශ්‍රී ලංකාව පුරා ගනුදෙනුකරුවන් සඳහා ගොඩනැගූ වෙබ් අඩවි, ජංගම යෙදුම්, POS පද්ධති, සහ අභිරුචි මෘදුකාංග ව්‍යාපෘති බලන්න.',
       contactTitle: 'ඔබගේ ව්‍යාපාරයට ඊළඟ ප්‍රිමියම් software experience එක එකතු කරමු.',
       contactDescription:
         'අවශ්‍යතා, අවශ්‍ය කාලසටහන, හෝ විසඳිය යුතු අභියෝගය අප සමග බෙදාගන්න. පළමු සංවාදයේ සිටම නිවැරදි product direction එක සකස් කරමු.',
@@ -814,14 +814,14 @@ export const contactCards = [
     title: 'Call us',
     titleSi: 'අමතන්න',
     value: companyInfo.phone,
-    href: 'tel:+94772488800',
+    href: 'tel:+94725592323',
     icon: Phone,
   },
   {
     title: 'Visit us',
     titleSi: 'අප වෙත එන්න',
     value: companyInfo.location,
-    href: 'https://maps.google.com/?q=Colombo,Sri Lanka',
+    href: 'https://maps.google.com/?q=Galle,Sri Lanka',
     icon: MapPin,
   },
 ]

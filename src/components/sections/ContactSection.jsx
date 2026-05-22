@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import emailjs from '@emailjs/browser'
 import { motion } from 'framer-motion'
 import { Send } from 'lucide-react'
 import SectionHeading from '../SectionHeading'
@@ -26,13 +25,7 @@ function ContactSection() {
   const [isSubmitting, setIsSubmitting] = useState(false)
   const [status, setStatus] = useState({ type: '', message: '' })
 
-  const emailConfig = {
-    serviceId: import.meta.env.VITE_EMAILJS_SERVICE_ID,
-    templateId: import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
-    publicKey: import.meta.env.VITE_EMAILJS_PUBLIC_KEY,
-  }
-
-  const hasEmailJsConfig = Object.values(emailConfig).every(Boolean)
+  const formspreeEndpoint = import.meta.env.VITE_FORMSPREE_ENDPOINT
   const mapUrl = `https://www.google.com/maps?q=${encodeURIComponent(companyInfo.location)}&z=12&output=embed`
 
   const handleChange = (event) => {
@@ -46,18 +39,19 @@ function ContactSection() {
     setStatus({ type: '', message: '' })
 
     try {
-      if (hasEmailJsConfig) {
-        await emailjs.send(
-          emailConfig.serviceId,
-          emailConfig.templateId,
-          {
-            from_name: formData.name,
-            reply_to: formData.email,
+      if (formspreeEndpoint) {
+        const response = await fetch(formspreeEndpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+          body: JSON.stringify({
+            name: formData.name,
+            email: formData.email,
             phone: formData.phone,
             message: formData.message,
-          },
-          { publicKey: emailConfig.publicKey },
-        )
+          }),
+        })
+
+        if (!response.ok) throw new Error('Submission failed')
 
         setStatus({
           type: 'success',
